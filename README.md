@@ -32,6 +32,8 @@ An AI virtual influencer is a computer-generated persona used on social media, i
 ## Guides & Tutorials
 - [How consistency works (prompt library)](https://github.com/metrosir/consistent-ai-character-prompts)
 - [Build an AI influencer](https://www.picovix.app/features/ai-influencer-generator)
+- [How to keep a consistent character in Midjourney (2026 guide)](https://www.picovix.app/blog/how-to-keep-consistent-character-midjourney) — why faces drift across generations, and how character-specific models fix it.
+- [Consistent character generator](https://www.picovix.app/features/consistent-character-generator) — lock one identity across unlimited scenes.
 
 ## Communities
 - r/aiArt, r/StableDiffusion, r/AIInfluencers
