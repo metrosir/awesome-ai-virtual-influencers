@@ -22,6 +22,9 @@ An AI virtual influencer is a computer-generated persona used on social media, i
 - [Krea](https://www.krea.ai) - Real-time generation and training of custom styles and characters.
 - [Civitai](https://civitai.com) - Community hub for LoRA and character models, the open-source path to identity locking.
 - [Scenario](https://www.scenario.com) - Train custom generators for consistent assets and characters.
+- [Flux](https://blackforestlabs.ai) - Open-weight image models widely used to train character LoRAs.
+- [Photo AI](https://photoai.com) - Train on your own photos to generate a consistent person in any scene.
+- [Astria](https://www.astria.ai) - Fine-tuning API for generating consistent characters and people.
 
 ## Video & Animation
 
@@ -31,6 +34,9 @@ An AI virtual influencer is a computer-generated persona used on social media, i
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) - Image and text-to-video with realistic motion.
 - [Pika](https://pika.art) - Image-to-video and short clip generation.
 - [Hedra](https://www.hedra.com) - Talking-character video from a single portrait.
+- [OpenAI Sora](https://openai.com/sora) - Text-to-video generation with coherent scenes.
+- [Google Veo](https://deepmind.google/technologies/veo/) - High-fidelity text and image-to-video.
+- [Higgsfield](https://higgsfield.ai) - Character-driven video with camera-motion control.
 
 ## Notable Virtual Influencers
 
@@ -40,6 +46,9 @@ An AI virtual influencer is a computer-generated persona used on social media, i
 - [Imma](https://www.instagram.com/imma.gram/) - Japan's leading virtual model, used in major brand campaigns.
 - [Noonoouri](https://www.instagram.com/noonoouri/) - Digital fashion influencer who signed a music deal.
 - [Lu do Magalu](https://www.instagram.com/magazineluiza/) - One of the most-followed virtual influencers worldwide, from Brazil.
+- [Milla Sofia](https://www.instagram.com/millasofiafin/) - Finnish AI model and virtual influencer.
+- [Emily Pellegrini](https://www.instagram.com/emilypellegrini/) - AI influencer with a large following and brand deals.
+- [Kenza Layli](https://www.instagram.com/kenza.layli/) - AI creator, winner of the first Miss AI pageant in 2024.
 
 ## Guides & Tutorials
 
