@@ -14,6 +14,7 @@ An AI virtual influencer is a computer-generated persona used on social media, i
 
 ## Consistent Character & Model Generation
 
+- [Clout](https://tryclout.ai/) - Create AI characters with a consistent identity and generate photos and videos for social content.
 - [Picovix](https://www.picovix.app) - Generate a consistent AI model/influencer across unlimited scenes, same face every time. [Live showcase](https://www.picovix.app/showcase).
 - [Midjourney](https://www.midjourney.com) - High-quality general image generation, character consistency via `--cref`.
 - [Stable Diffusion](https://stability.ai) - Open-source generation, consistency via LoRA and IP-Adapter.
