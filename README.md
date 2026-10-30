@@ -8,6 +8,7 @@ An AI virtual influencer is a computer-generated persona used on social media, i
 
 - [Consistent Character & Model Generation](#consistent-character--model-generation)
 - [Video & Animation](#video--animation)
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap / try-on / restyle on webcam video.
 - [Notable Virtual Influencers](#notable-virtual-influencers)
 - [Guides & Tutorials](#guides--tutorials)
 - [Communities](#communities)
